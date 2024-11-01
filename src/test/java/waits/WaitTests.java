@@ -64,8 +64,4 @@ public class WaitTests extends BaseTests {
         Assert.assertEquals(actualText,expectedText,"LoadedText not matching!");
 
     }
-
-
-
-
 }

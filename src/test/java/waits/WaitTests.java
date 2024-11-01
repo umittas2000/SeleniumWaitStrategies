@@ -62,6 +62,7 @@ public class WaitTests extends BaseTests {
         String expectedText = "Hello World!";
 
         Assert.assertEquals(actualText,expectedText,"LoadedText not matching!");
+
     }
 
 
